@@ -1,3 +1,3 @@
 # Passarin Assets
 
-Include icon + image 
+Include icon + image + theme
